@@ -13,6 +13,7 @@ public class Repositorio {
 
     /**
      * haciendo repositorio de ejemplo
+     * para posibles proyectos a futuro
      */
     public static void main(String[] args) {
         System.out.print("Hola Mundo");
