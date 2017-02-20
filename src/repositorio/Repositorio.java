@@ -12,7 +12,7 @@ package repositorio;
 public class Repositorio {
 
     /**
-     * @param args the command line arguments
+     * haciendo repositorio de ejemplo
      */
     public static void main(String[] args) {
         System.out.print("Hola Mundo");
